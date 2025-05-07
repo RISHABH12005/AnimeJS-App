@@ -1,5 +1,5 @@
 # AnimeJS Android App
-This project embeds the [Anime.js](https://animejs.com/) website inside an Android application using *WebView* & *Kotlin*. It allows users to view and interact with Anime.js documentation & examples through a mobile interface.
+This project embeds the [Anime.js](https://animejs.com/) website inside an Android application using *WebView* & *Kotlin*. It allows users to view & interact with Anime.js documentation & examples through a mobile interface.
 
 ## Project
 - [App](https://github.com/RISHABH12005/AnimeJS-App/releases/tag/v1.0)
